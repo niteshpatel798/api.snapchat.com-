@@ -1,1 +1,1 @@
-# api.snapchat.com-
+# api.snapchat.com
